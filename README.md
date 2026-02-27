@@ -1,4 +1,4 @@
-# Transações
+# Análise de Transações
 Este projeto consiste em um dashboard interativo desenvolvido no Power BI para analisar o desempenho de vendas e o perfil de clientes de grandes redes de varejo e serviços (como Renner, Carrefour e Uber). Os dados utilizados são fictícios e provenientes de um dataset de treinamento.
 
 # Funcionalidades
